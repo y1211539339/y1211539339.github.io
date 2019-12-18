@@ -21,18 +21,22 @@ a{left: 50%;
 
 .loc{
 position: absolute;
-left: 60%;
-top: 120%
+left: 57%;
+top: 150%
 }
 
 .dis{
 	position: absolute;
-left: 50%;
-top: 40%
+left: 40%;
+top: 43%
 
 }
 .los{
 	position: absolute;
-left: 50%;
-top: 160%
+left: 5%;
+top: 130%
+}
+
+.lot{position: absolute;
+	top: 200%
 }
